@@ -1,0 +1,14 @@
+{
+  "name": "simple-format",
+  "description": "format for human readable data",
+  "version": "1.0.0",
+  "author": "sasa+1 <sasaplus1@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sasaplus1/simple-format.git"
+  },
+  "sideEffects": false
+}
