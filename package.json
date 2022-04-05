@@ -1,6 +1,6 @@
 {
   "name": "simple-format",
-  "description": "format for human readable data",
+  "description": "format data for human readable",
   "version": "1.0.0",
   "author": "sasa+1 <sasaplus1@gmail.com>",
   "devDependencies": {

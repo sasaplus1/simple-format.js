@@ -1,6 +1,6 @@
 # simple-format.js
 
-format for human readable data 
+format data for human readable
 
 ## License
 
